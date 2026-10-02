@@ -3,7 +3,8 @@
 An interactive Power BI dashboard analyzing career data, salary benchmarks, and workplace satisfaction metrics from 630 data professionals globally. This project highlights end-to-end data preparation (ETL) and interactive dashboard design.
 
 ## Live Dashboard
-*Add a screenshot of your dashboard here*
+![Interactive Dashboard Screenshot](dashboard-image)
+
 
 ## Key Insights Captured
 *   **Salary Benchmarks:** Data Scientists and Architects command the highest average salaries.
