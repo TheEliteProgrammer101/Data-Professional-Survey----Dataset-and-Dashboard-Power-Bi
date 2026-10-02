@@ -29,6 +29,6 @@ The raw survey data required comprehensive restructuring before visualization. K
 ## How to Explore
 1. Clone this repository.
 2. Open the `.pbix` file using Power BI Desktop.
-   > 📑 **Note:** You can download the `Data Professional Survey.pbix` file in this repository to open it at once locally in Power BI Desktop and interact with the data filters.
+   > 📑 **Note:** You can download the `(Data Professional Survey.pbix)` file in this repository to open it at once locally in Power BI Desktop and interact with the data filters.
 
 4. Interact with the visual elements to filter insights by country or job title.
