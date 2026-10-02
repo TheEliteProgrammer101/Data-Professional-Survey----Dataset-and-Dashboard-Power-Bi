@@ -4,7 +4,7 @@ An interactive Power BI dashboard analyzing career data, salary benchmarks, and 
 
 ## Live Dashboard
 <p align="center">
-  <img src="dashboard-image" alt="Dashboard Screenshot" width="80%">
+  <img src="dashboard-image" alt="Dashboard Screenshot" width="90%">
 </p>
 
 
