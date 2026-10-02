@@ -3,7 +3,10 @@
 An interactive Power BI dashboard analyzing career data, salary benchmarks, and workplace satisfaction metrics from 630 data professionals globally. This project highlights end-to-end data preparation (ETL) and interactive dashboard design.
 
 ## Live Dashboard
-![Interactive Dashboard Screenshot](dashboard-image)
+<p align="center">
+  <img src="dashboard-image" alt="Dashboard Screenshot" width="80%">
+</p>
+
 
 
 ## Key Insights Captured
